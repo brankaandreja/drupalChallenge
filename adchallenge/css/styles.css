@@ -12,7 +12,7 @@ main {
   width: 100%;
   background-color: #000000 !important;
   padding-top: 20px;
-  z-index: 999;
+  z-index: 999;F
   border-bottom: 1px solid #ffffff;
   animation: fade-in-menu ease 3s;
   animation-iteration-count: 1;
@@ -183,7 +183,7 @@ footer {
   #navbar {
     height: 100px; }
   #block-svg {
-    /*float: none !important;*/
+    float: none !important;
     display: inline-block; }
   .sticky .region-header {
     background-color: transparent;
